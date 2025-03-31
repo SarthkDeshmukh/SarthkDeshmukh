@@ -14,6 +14,8 @@
 
 - 💬 Ask me about **Data analysis, Machine Learning, Data Analytics , and backend development with NestJS.**
 
+- 💬 Fun Fact -> **Did you know, that Git was created by Linus Torvalds in just 2 weeks? He built it in 2005 to manage the Linux kernel development because he wasn’t vibing with the existing tools**
+
 - 📫 How to reach me **sarthakdeshmukh158@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
