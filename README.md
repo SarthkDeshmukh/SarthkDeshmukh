@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXJwMmF3ZzJubXM0azV1dzF0ZDk3ZTdtajFldnVxdXl6NHRjcmw5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="Coding GIF">
-</p><h3 align="center">I am a Computer Science graduate with expertise in Python, SQL, Power BI, Hadoop, NestJS, TypeScript, C++, and Java. My skills span Data Visualization , Machine Learning , and Backend Development. I hold an Oracle Cloud Infrastructure Foundations Associate certification. Passionate about solving complex data problems, I aim to contribute to impactful tech solutions.</h3>
+</p><h3 align="center">I am a Computer Science graduate with expertise in Java, Python, SQL, Power BI, Hadoop, NestJS, TypeScript, and C++. My skills span Data Visualization , Machine Learning , and Backend Development. I hold an Oracle Cloud Infrastructure Foundations Associate certification. Passionate about solving complex data problems, I aim to contribute to impactful tech solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthkdeshmukh&label=Profile%20views&color=0e75b6&style=flat" alt="sarthkdeshmukh" /> </p>
 
