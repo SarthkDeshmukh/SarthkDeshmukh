@@ -18,30 +18,68 @@
 
 <br/>
 🧑‍💻 About Me
+<br/>
 I'm a Java Backend Developer with hands-on internship experience building production-grade REST APIs, microservices, and secure backend systems using Spring Boot.
 <br/>
-
-🔧 Core Stack:   Java 8+ · Spring Boot · Spring Security · JPA/Hibernate · PostgreSQL · MySQL
-⚙️ Also work with:   Microservices · Docker · Kafka · GraphQL · ReactJS · JWT · Redis
-🏗️ Backend Principles:   Clean architecture · Role-based access · Pessimistic Locking · API design
-☁️ Certified:   Oracle Cloud Infrastructure Foundations Associate
-💬 Ask me about:   Spring Boot · REST API design · Microservices · Spring Security
-📫 Reach me:   sarthakdeshmukh158@gmail.com
-🎯 Open to:   Java Backend roles | 0–1 yr experience positions
-
+<table>
+  <tr>
+    <td>🔧 <strong>Core Stack</strong></td>
+    <td>Java 8+ &nbsp;·&nbsp; Spring Boot &nbsp;·&nbsp; Spring Security &nbsp;·&nbsp; JPA/Hibernate &nbsp;·&nbsp; PostgreSQL &nbsp;·&nbsp; MySQL</td>
+  </tr>
+  <tr>
+    <td>⚙️ <strong>Also work with</strong></td>
+    <td>Microservices &nbsp;·&nbsp; Docker &nbsp;·&nbsp; Kafka &nbsp;·&nbsp; GraphQL &nbsp;·&nbsp; ReactJS &nbsp;·&nbsp; JWT &nbsp;·&nbsp; Redis</td>
+  </tr>
+  <tr>
+    <td>☁️ <strong>Certified</strong></td>
+    <td>Oracle Cloud Infrastructure Foundations Associate</td>
+  </tr>
+  <tr>
+    <td>💬 <strong>Ask me about</strong></td>
+    <td>Spring Boot &nbsp;·&nbsp; REST API design &nbsp;·&nbsp; Microservices &nbsp;·&nbsp; Spring Security</td>
+  </tr>
+  <tr>
+    <td>📫 <strong>Reach me</strong></td>
+    <td>sarthakdeshmukh158@gmail.com</td>
+  </tr>
+  <tr>
+    <td>🎯 <strong>Open to</strong></td>
+    <td>Java Backend roles &nbsp;|&nbsp; 0–1 yr experience positions</td>
+  </tr>
+</table>
 <br/>
 
 <br/>
 🚀 Featured Projects
 <br/>
- ProjectStackHighlights🏦Airbnb Backend APISpring Boot · PostgreSQL · JWT · Stripe30+ APIs · Pessimistic Locking · Strategy Pattern pricing🏢Loan Origination SystemSpring Boot · Microservices · ReactJS · PostgreSQL25+ APIs · RBAC · SonarQube📊QSR Financial DashboardPower BI · Python · MLRandom Forest · K-Means · DAX
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Stack</th>
+    <th>Highlights</th>
+  </tr>
+  <tr>
+    <td>🏦 <strong>Airbnb Backend API</strong></td>
+    <td>Spring Boot &nbsp;·&nbsp; PostgreSQL &nbsp;·&nbsp; JWT &nbsp;·&nbsp; Stripe</td>
+    <td>30+ APIs &nbsp;·&nbsp; Pessimistic Locking &nbsp;·&nbsp; Strategy Pattern pricing</td>
+  </tr>
+  <tr>
+    <td>🏢 <strong>Loan Origination System</strong></td>
+    <td>Spring Boot &nbsp;·&nbsp; Microservices &nbsp;·&nbsp; Rest API &nbsp;·&nbsp; ReactJS &nbsp;·&nbsp; PostgreSQL &nbsp;·&nbsp; Postman &nbsp;·&nbsp; Swagger</td>
+    <td>25+ APIs &nbsp;·&nbsp; JWT &nbsp;·&nbsp; 6+ UI components</td>
+  </tr>
+  <tr>
+    <td>📊 <strong>QSR Financial Dashboard</strong></td>
+    <td>Power BI &nbsp;·&nbsp; Python &nbsp;·&nbsp; ML</td>
+    <td>Random Forest &nbsp;·&nbsp; K-Means &nbsp;·&nbsp; DAX</td>
+  </tr>
+</table>
 <br/>
 
 <br/>
 🛠️ Languages and Tools
 <br/>
 <div align="left">
-  <!-- Core Backend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="Java" title="Java" />
   <img width="18" />
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" height="35" alt="Spring Boot" title="Spring Boot" />
@@ -52,7 +90,6 @@ I'm a Java Backend Developer with hands-on internship experience building produc
   <img width="18" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="35" alt="Redis" title="Redis" />
   <img width="18" />
-  <!-- DevOps & Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="Docker" title="Docker" />
   <img width="18" />
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" height="35" alt="Jenkins" title="Jenkins" />
@@ -63,15 +100,12 @@ I'm a Java Backend Developer with hands-on internship experience building produc
   <img width="18" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="35" alt="GitLab" title="GitLab" />
   <img width="18" />
-  <!-- Messaging -->
   <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" height="35" alt="Kafka" title="Apache Kafka" />
   <img width="18" />
-  <!-- Frontend (supporting) -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="ReactJS" title="ReactJS" />
   <img width="18" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="TypeScript" title="TypeScript" />
   <img width="18" />
-  <!-- Others -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Python" title="Python" />
   <img width="18" />
   <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" height="35" alt="Hadoop" title="Hadoop" />
