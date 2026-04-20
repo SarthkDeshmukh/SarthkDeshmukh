@@ -1,31 +1,74 @@
-<h1 align="center">Hi 👋, I'm Sarthak Deshmukh</h1>
-
+<h1 align="center">Hey, I'm Sarthak Deshmukh 👋</h1>
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXJwMmF3ZzJubXM0azV1dzF0ZDk3ZTdtajFldnVxdXl6NHRjcmw5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="Coding GIF">
-</p><h3 align="center">I am a Computer Science graduate with expertise in Java, Python, SQL, Power BI, Hadoop, NestJS, TypeScript, and C++. My skills span Data Visualization , Machine Learning , and Backend Development. I hold an Oracle Cloud Infrastructure Foundations Associate certification. Passionate about solving complex data problems, I aim to contribute to impactful tech solutions.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthkdeshmukh&label=Profile%20views&color=0e75b6&style=flat" alt="sarthkdeshmukh" /> </p>
-
-- 🔭 I’m currently working on **Integrating an e-commerce website with a backend, enabling product addition to the database and performing CRUD operations using NestJS and MongoDB.**
-
-- 🌱 I’m currently learning **Spring and Spring Boot to strengthen my backend development skills, along with Hadoop for big data processing**
-
-- 👯 I’m looking to collaborate on **Machine learning, Data Analytics and full-stack development projects.**
-
-- 💬 Ask me about **Data analysis, Machine Learning, Data Analytics , and backend development with NestJS.**
-
-- 💬 Fun Fact -> **Did you know, that Git was created by Linus Torvalds in just 2 weeks? He built it in 2005 to manage the Linux kernel development because he wasn’t vibing with the existing tools**
-
-- 📫 How to reach me **sarthakdeshmukh158@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXJwMmF3ZzJubXM0azV1dzF0ZDk3ZTdtajFldnVxdXl6NHRjcmw5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="450" alt="Coding GIF">
+</p>
+<h3 align="center">Java Backend Developer · Spring Boot · REST APIs · AI-Powered Systems</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sarthak-deshmukh-43a9a5250/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:sarthakdeshmukh158@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://sarthak158.blogspot.com/" target="blank">
+    <img src="https://img.shields.io/badge/Blog-Read-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/>
+  </a>
+</p>
 <p align="left">
-<a href="https://www.linkedin.com/in/sarthak-deshmukh-43a9a5250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sarthak-deshmukh-43a9a5250/" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/sarthakdeshmukh158" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sarthak deshmukh" height="30" width="40" /></a>
-<a href="https://instagram.com/sarthk_158" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sarthk_158" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=sarthkdeshmukh&label=Profile%20views&color=0e75b6&style=flat" alt="sarthkdeshmukh"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+🧑‍💻 About Me
+I'm a Java Backend Developer focused on building clean, scalable REST APIs and AI-integrated backend systems using Spring Boot.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthkdeshmukh&show_icons=true&locale=en&layout=compact" alt="sarthkdeshmukh" /></p>
+🔧 Core Stack: Java · Spring Boot · Spring Security · JPA/Hibernate · MySQL · REST APIs
+🤖 Currently Building: AI-powered backends using LangChain4j — RAG pipelines, tool-calling agents, document Q&A systems
+🏗️ Backend Principles: Clean architecture · JWT Auth · Exception handling · API design
+☁️ Certified: Oracle Cloud Infrastructure Foundations Associate
+💬 Ask me about: Java backend development, Spring Boot, REST API design
+📫 Reach me at: sarthakdeshmukh158@gmail.com
+🎯 Open to: Java Backend roles | Fresher / 0–1 yr experience positions
+
+
+🚀 What I'm Working On
+ProjectStackStatus🔗 Student Management REST APISpring Boot · JPA · MySQL · JWT🔨 In Progress🤖 AI Document Q&A BackendSpring Boot · LangChain4j · RAG🔨 In Progress
+
+🛠️ Languages and Tools
+<p align="left">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a>
+  <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/>
+  </a>
+</p>
+
+📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SarthkDeshmukh&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarthkDeshmukh&layout=compact&theme=dark&hide_border=true" width="40%"/>
+</p>
